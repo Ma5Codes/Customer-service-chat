@@ -1,0 +1,1501 @@
+text,label,sentiment,urgency,resolution_status
+Why is my order status still pending?,account_issue,neutral,low,pending
+"I received a wrong item, can I exchange it?",order_issue,neutral,high,resolved
+How do I change my delivery address?,technical_support,neutral,high,pending
+How do I reset my password?,account_issue,positive,low,pending
+Can I speak to a human agent?,service_issue,positive,high,pending
+How do I return an item I purchased?,refund,positive,medium,unresolved
+I want to cancel my subscription.,tracking,negative,low,pending
+"My payment failed, what should I do?",order_issue,positive,low,pending
+I need help updating my account details.,subscription,negative,high,unresolved
+Can I get a refund for my last purchase?,refund,neutral,medium,unresolved
+My login credentials are not working.,human_agent,positive,low,unresolved
+Can I speak to a human agent?,technical_support,positive,low,pending
+I was charged incorrectly on my bill.,wrong_item,negative,high,unresolved
+"My mobile app keeps crashing, can you fix it?",account_issue,neutral,medium,unresolved
+How do I return an item I purchased?,discount,neutral,medium,unresolved
+"My payment failed, what should I do?",refund,negative,low,pending
+Can I get a refund for my last purchase?,login_issue,neutral,low,unresolved
+I am unable to track my package.,returns,neutral,high,resolved
+How do I return an item I purchased?,upgrade,neutral,medium,unresolved
+How do I change my delivery address?,app_crash,neutral,medium,pending
+Can I upgrade my current subscription plan?,billing,positive,medium,resolved
+Can I upgrade my current subscription plan?,discount,positive,low,pending
+Can I upgrade my current subscription plan?,human_agent,positive,high,resolved
+How do I reset my password?,returns,negative,high,pending
+I want to cancel my subscription.,billing,positive,low,pending
+Why is my order status still pending?,refund,positive,medium,pending
+I want to cancel my subscription.,payment_issue,neutral,high,resolved
+I want to cancel my subscription.,account_issue,neutral,high,resolved
+How do I reset my password?,login_issue,neutral,high,pending
+The customer service number is not working.,wrong_item,positive,medium,resolved
+Can I upgrade my current subscription plan?,wrong_item,negative,low,unresolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,negative,medium,unresolved
+Do you offer discounts for students?,app_crash,negative,low,resolved
+I am unable to track my package.,account_issue,neutral,high,resolved
+I need help updating my account details.,service_issue,negative,low,resolved
+"My payment failed, what should I do?",refund,positive,high,unresolved
+How do I reset my password?,upgrade,positive,medium,pending
+"I received a wrong item, can I exchange it?",app_crash,neutral,low,resolved
+My order has not arrived yet.,login_issue,neutral,medium,unresolved
+My order has not arrived yet.,technical_support,negative,low,unresolved
+The customer service number is not working.,order_status,positive,high,pending
+I need help updating my account details.,wrong_item,negative,low,resolved
+I was charged incorrectly on my bill.,returns,negative,medium,unresolved
+The customer service number is not working.,login_issue,neutral,medium,resolved
+I am unable to track my package.,order_status,negative,low,pending
+Can I get a refund for my last purchase?,account_issue,neutral,low,resolved
+My order has not arrived yet.,login_issue,positive,low,pending
+Do you offer discounts for students?,login_issue,negative,low,resolved
+How do I reset my password?,account_update,neutral,low,pending
+I was charged incorrectly on my bill.,service_issue,positive,medium,resolved
+How do I reset my password?,human_agent,positive,medium,resolved
+Can I speak to a human agent?,discount,neutral,low,resolved
+I was charged incorrectly on my bill.,login_issue,positive,high,unresolved
+The internet connection is too slow.,refund,negative,medium,unresolved
+My order has not arrived yet.,order_status,negative,high,unresolved
+"I received a wrong item, can I exchange it?",human_agent,positive,medium,resolved
+I am unable to track my package.,wrong_item,neutral,medium,unresolved
+My login credentials are not working.,returns,negative,medium,unresolved
+How do I return an item I purchased?,account_update,negative,high,unresolved
+"I received a wrong item, can I exchange it?",technical_support,neutral,high,pending
+My login credentials are not working.,service_issue,neutral,medium,pending
+Can I get a refund for my last purchase?,account_issue,negative,low,resolved
+The internet connection is too slow.,order_status,neutral,medium,unresolved
+My login credentials are not working.,tracking,negative,low,unresolved
+I want to cancel my subscription.,technical_support,negative,low,pending
+"My payment failed, what should I do?",technical_support,neutral,high,resolved
+Can I speak to a human agent?,order_issue,negative,low,resolved
+I am unable to track my package.,refund,neutral,medium,resolved
+Can I speak to a human agent?,login_issue,negative,low,resolved
+"I received a wrong item, can I exchange it?",refund,negative,medium,pending
+How do I change my delivery address?,order_status,neutral,high,resolved
+"My payment failed, what should I do?",human_agent,neutral,low,pending
+How do I reset my password?,human_agent,negative,medium,unresolved
+How do I return an item I purchased?,order_issue,positive,high,resolved
+Do you offer discounts for students?,service_issue,neutral,high,resolved
+"I received a wrong item, can I exchange it?",billing,neutral,medium,pending
+"My payment failed, what should I do?",order_status,neutral,high,pending
+"My credit card was declined, what now?",tracking,negative,low,pending
+Can I get a refund for my last purchase?,upgrade,positive,high,pending
+How do I reset my password?,returns,positive,high,unresolved
+How do I return an item I purchased?,payment_issue,neutral,low,pending
+My order has not arrived yet.,refund,neutral,medium,resolved
+"My mobile app keeps crashing, can you fix it?",discount,neutral,high,pending
+The internet connection is too slow.,login_issue,neutral,low,pending
+"My mobile app keeps crashing, can you fix it?",service_issue,negative,low,unresolved
+My login credentials are not working.,order_issue,negative,low,pending
+I want to cancel my subscription.,account_update,negative,high,unresolved
+How do I reset my password?,returns,positive,high,unresolved
+"My credit card was declined, what now?",discount,negative,medium,resolved
+The customer service number is not working.,order_status,positive,high,unresolved
+Can I speak to a human agent?,refund,neutral,medium,pending
+Can I get a refund for my last purchase?,wrong_item,positive,low,unresolved
+"I received a wrong item, can I exchange it?",refund,neutral,high,pending
+Can I get a refund for my last purchase?,order_status,positive,high,unresolved
+Do you offer discounts for students?,app_crash,positive,low,unresolved
+The internet connection is too slow.,account_update,positive,low,unresolved
+My order has not arrived yet.,order_status,positive,high,pending
+I need help updating my account details.,billing,positive,low,pending
+I was charged incorrectly on my bill.,discount,negative,medium,resolved
+My order has not arrived yet.,account_update,negative,medium,resolved
+Can I get a refund for my last purchase?,delivery,positive,medium,unresolved
+My order has not arrived yet.,returns,neutral,medium,resolved
+Can I upgrade my current subscription plan?,discount,positive,medium,unresolved
+How do I reset my password?,delivery,neutral,low,unresolved
+I was charged incorrectly on my bill.,order_issue,neutral,high,unresolved
+Do you offer discounts for students?,order_issue,positive,medium,pending
+I was charged incorrectly on my bill.,wrong_item,positive,low,resolved
+I want to cancel my subscription.,wrong_item,neutral,medium,pending
+My order has not arrived yet.,upgrade,negative,low,unresolved
+I am unable to track my package.,card_declined,positive,high,pending
+"My credit card was declined, what now?",service_issue,positive,low,unresolved
+The customer service number is not working.,wrong_item,neutral,low,pending
+Can I speak to a human agent?,technical_support,positive,high,unresolved
+How do I reset my password?,upgrade,positive,medium,unresolved
+The internet connection is too slow.,technical_support,neutral,low,resolved
+I need help updating my account details.,card_declined,positive,high,pending
+How do I reset my password?,delivery,negative,high,pending
+How do I change my delivery address?,upgrade,positive,medium,pending
+How do I return an item I purchased?,returns,positive,medium,pending
+My login credentials are not working.,login_issue,negative,high,unresolved
+Can I upgrade my current subscription plan?,technical_support,positive,high,unresolved
+I need help updating my account details.,account_update,negative,high,unresolved
+I need help updating my account details.,upgrade,positive,high,pending
+I want to cancel my subscription.,technical_support,positive,medium,resolved
+Can I upgrade my current subscription plan?,discount,positive,high,unresolved
+"My payment failed, what should I do?",delivery,neutral,low,unresolved
+My order has not arrived yet.,order_status,positive,medium,resolved
+I want to cancel my subscription.,human_agent,neutral,medium,pending
+"My mobile app keeps crashing, can you fix it?",returns,positive,high,unresolved
+I want to cancel my subscription.,account_issue,neutral,medium,resolved
+My login credentials are not working.,returns,positive,medium,resolved
+I was charged incorrectly on my bill.,order_issue,neutral,medium,pending
+The customer service number is not working.,human_agent,neutral,low,resolved
+"I received a wrong item, can I exchange it?",card_declined,negative,medium,pending
+"My payment failed, what should I do?",returns,negative,medium,unresolved
+Can I upgrade my current subscription plan?,subscription,neutral,high,pending
+"I received a wrong item, can I exchange it?",app_crash,positive,medium,unresolved
+How do I change my delivery address?,wrong_item,positive,medium,unresolved
+"I received a wrong item, can I exchange it?",account_issue,neutral,high,pending
+The internet connection is too slow.,wrong_item,positive,high,resolved
+The customer service number is not working.,wrong_item,negative,high,pending
+The customer service number is not working.,delivery,neutral,high,pending
+My login credentials are not working.,account_issue,negative,medium,resolved
+"My mobile app keeps crashing, can you fix it?",upgrade,negative,high,pending
+I need help updating my account details.,billing,neutral,medium,unresolved
+Why is my order status still pending?,wrong_item,negative,high,resolved
+I want to cancel my subscription.,login_issue,positive,low,resolved
+I am unable to track my package.,account_issue,positive,high,pending
+How do I reset my password?,technical_support,positive,high,pending
+"My payment failed, what should I do?",payment_issue,positive,medium,unresolved
+I need help updating my account details.,delivery,neutral,high,resolved
+Do you offer discounts for students?,upgrade,negative,low,pending
+"My credit card was declined, what now?",returns,neutral,high,unresolved
+"I received a wrong item, can I exchange it?",subscription,negative,medium,resolved
+The customer service number is not working.,upgrade,neutral,medium,unresolved
+How do I change my delivery address?,upgrade,neutral,high,pending
+My order has not arrived yet.,billing,neutral,medium,resolved
+I am unable to track my package.,login_issue,positive,medium,resolved
+I am unable to track my package.,app_crash,neutral,low,unresolved
+The customer service number is not working.,payment_issue,negative,high,pending
+The internet connection is too slow.,refund,neutral,low,pending
+I need help updating my account details.,login_issue,positive,low,pending
+Can I speak to a human agent?,discount,positive,low,unresolved
+My login credentials are not working.,wrong_item,neutral,high,resolved
+Why is my order status still pending?,technical_support,negative,medium,resolved
+My order has not arrived yet.,upgrade,neutral,low,pending
+The internet connection is too slow.,order_status,neutral,medium,unresolved
+My order has not arrived yet.,payment_issue,positive,high,pending
+I want to cancel my subscription.,service_issue,neutral,low,pending
+The customer service number is not working.,delivery,positive,low,pending
+The customer service number is not working.,payment_issue,neutral,medium,unresolved
+Can I upgrade my current subscription plan?,subscription,neutral,medium,unresolved
+The customer service number is not working.,discount,negative,high,pending
+How do I reset my password?,subscription,positive,medium,resolved
+Do you offer discounts for students?,account_issue,positive,low,resolved
+"My mobile app keeps crashing, can you fix it?",delivery,positive,low,unresolved
+Why is my order status still pending?,payment_issue,positive,high,pending
+How do I reset my password?,wrong_item,neutral,high,unresolved
+"My payment failed, what should I do?",returns,positive,high,unresolved
+I want to cancel my subscription.,card_declined,neutral,medium,unresolved
+Why is my order status still pending?,login_issue,neutral,medium,pending
+My order has not arrived yet.,wrong_item,positive,low,pending
+Can I get a refund for my last purchase?,discount,neutral,low,pending
+Why is my order status still pending?,returns,positive,low,resolved
+How do I change my delivery address?,upgrade,neutral,medium,pending
+Can I get a refund for my last purchase?,billing,positive,medium,unresolved
+Why is my order status still pending?,account_issue,positive,medium,pending
+"My payment failed, what should I do?",discount,neutral,medium,pending
+How do I reset my password?,order_issue,neutral,medium,resolved
+Do you offer discounts for students?,order_issue,negative,high,unresolved
+I need help updating my account details.,upgrade,neutral,medium,resolved
+How do I reset my password?,technical_support,positive,medium,unresolved
+My login credentials are not working.,discount,neutral,high,unresolved
+Can I get a refund for my last purchase?,returns,neutral,low,unresolved
+Why is my order status still pending?,billing,neutral,medium,resolved
+"I received a wrong item, can I exchange it?",card_declined,positive,medium,pending
+Can I upgrade my current subscription plan?,returns,positive,medium,resolved
+My login credentials are not working.,refund,negative,low,pending
+My login credentials are not working.,order_status,positive,medium,resolved
+Why is my order status still pending?,upgrade,positive,low,unresolved
+How do I return an item I purchased?,tracking,positive,high,pending
+"I received a wrong item, can I exchange it?",refund,positive,high,resolved
+My order has not arrived yet.,login_issue,positive,low,unresolved
+"My payment failed, what should I do?",billing,negative,low,resolved
+"My mobile app keeps crashing, can you fix it?",billing,negative,medium,resolved
+I need help updating my account details.,upgrade,neutral,medium,resolved
+"My credit card was declined, what now?",app_crash,negative,high,unresolved
+"My credit card was declined, what now?",returns,negative,high,unresolved
+"I received a wrong item, can I exchange it?",human_agent,positive,high,pending
+My login credentials are not working.,subscription,negative,low,unresolved
+How do I return an item I purchased?,order_issue,negative,medium,pending
+How do I change my delivery address?,upgrade,negative,high,pending
+"I received a wrong item, can I exchange it?",account_issue,negative,high,pending
+Why is my order status still pending?,wrong_item,neutral,low,resolved
+I need help updating my account details.,wrong_item,negative,medium,pending
+"My mobile app keeps crashing, can you fix it?",service_issue,negative,low,pending
+How do I reset my password?,card_declined,negative,high,unresolved
+Can I upgrade my current subscription plan?,discount,positive,high,resolved
+My login credentials are not working.,account_issue,negative,medium,pending
+I am unable to track my package.,discount,negative,medium,resolved
+The customer service number is not working.,refund,positive,low,unresolved
+"My mobile app keeps crashing, can you fix it?",subscription,negative,medium,resolved
+I am unable to track my package.,login_issue,positive,medium,pending
+"I received a wrong item, can I exchange it?",payment_issue,neutral,high,unresolved
+"My mobile app keeps crashing, can you fix it?",account_update,positive,high,resolved
+"My credit card was declined, what now?",refund,negative,medium,resolved
+"My payment failed, what should I do?",returns,neutral,high,resolved
+How do I return an item I purchased?,account_issue,negative,high,unresolved
+Can I get a refund for my last purchase?,billing,neutral,medium,resolved
+"My credit card was declined, what now?",billing,negative,low,resolved
+Why is my order status still pending?,refund,negative,high,resolved
+How do I reset my password?,delivery,neutral,medium,pending
+Do you offer discounts for students?,returns,negative,medium,pending
+I was charged incorrectly on my bill.,order_issue,neutral,high,pending
+"My mobile app keeps crashing, can you fix it?",login_issue,negative,low,unresolved
+Can I get a refund for my last purchase?,app_crash,positive,medium,unresolved
+"My payment failed, what should I do?",tracking,negative,high,unresolved
+Can I upgrade my current subscription plan?,account_issue,negative,high,resolved
+The internet connection is too slow.,login_issue,positive,high,pending
+Can I speak to a human agent?,technical_support,negative,medium,resolved
+Can I speak to a human agent?,upgrade,negative,high,pending
+I was charged incorrectly on my bill.,service_issue,neutral,medium,pending
+Can I get a refund for my last purchase?,billing,neutral,low,unresolved
+Do you offer discounts for students?,account_update,neutral,low,unresolved
+"I received a wrong item, can I exchange it?",wrong_item,neutral,high,pending
+Why is my order status still pending?,tracking,positive,low,unresolved
+"My credit card was declined, what now?",order_status,negative,low,pending
+"I received a wrong item, can I exchange it?",returns,positive,medium,unresolved
+Do you offer discounts for students?,account_update,positive,medium,pending
+How do I change my delivery address?,discount,neutral,high,unresolved
+The internet connection is too slow.,billing,negative,low,unresolved
+Do you offer discounts for students?,login_issue,positive,low,resolved
+Can I upgrade my current subscription plan?,payment_issue,neutral,medium,pending
+"My mobile app keeps crashing, can you fix it?",billing,neutral,high,resolved
+"My mobile app keeps crashing, can you fix it?",subscription,positive,medium,unresolved
+I need help updating my account details.,login_issue,neutral,medium,resolved
+"My payment failed, what should I do?",upgrade,negative,low,resolved
+The internet connection is too slow.,delivery,positive,low,unresolved
+Can I upgrade my current subscription plan?,card_declined,positive,high,unresolved
+I am unable to track my package.,upgrade,neutral,medium,pending
+Why is my order status still pending?,delivery,negative,high,unresolved
+I need help updating my account details.,wrong_item,neutral,low,resolved
+"My credit card was declined, what now?",subscription,negative,medium,pending
+My login credentials are not working.,order_issue,positive,high,resolved
+I was charged incorrectly on my bill.,wrong_item,neutral,high,pending
+Can I get a refund for my last purchase?,wrong_item,neutral,high,pending
+"My payment failed, what should I do?",payment_issue,positive,low,pending
+Can I get a refund for my last purchase?,technical_support,negative,low,pending
+How do I return an item I purchased?,human_agent,positive,high,pending
+"My payment failed, what should I do?",discount,positive,low,unresolved
+"I received a wrong item, can I exchange it?",order_issue,neutral,high,resolved
+Why is my order status still pending?,discount,neutral,high,resolved
+I am unable to track my package.,service_issue,positive,low,resolved
+My order has not arrived yet.,account_issue,positive,medium,resolved
+My order has not arrived yet.,account_update,neutral,high,pending
+Why is my order status still pending?,order_status,negative,low,unresolved
+I am unable to track my package.,account_issue,negative,high,pending
+Can I get a refund for my last purchase?,order_status,positive,high,unresolved
+I need help updating my account details.,service_issue,positive,high,unresolved
+My order has not arrived yet.,billing,negative,medium,pending
+"I received a wrong item, can I exchange it?",billing,positive,low,unresolved
+"I received a wrong item, can I exchange it?",billing,neutral,high,resolved
+My order has not arrived yet.,billing,positive,high,resolved
+Can I get a refund for my last purchase?,app_crash,neutral,medium,unresolved
+"I received a wrong item, can I exchange it?",account_issue,positive,low,resolved
+Do you offer discounts for students?,wrong_item,positive,medium,resolved
+How do I return an item I purchased?,order_issue,neutral,low,pending
+I want to cancel my subscription.,wrong_item,negative,low,pending
+How do I change my delivery address?,order_issue,negative,low,resolved
+Can I speak to a human agent?,account_issue,positive,low,unresolved
+Do you offer discounts for students?,technical_support,positive,low,unresolved
+"I received a wrong item, can I exchange it?",wrong_item,positive,low,unresolved
+My order has not arrived yet.,delivery,neutral,low,pending
+My login credentials are not working.,order_status,positive,medium,pending
+"My mobile app keeps crashing, can you fix it?",account_issue,negative,high,resolved
+The internet connection is too slow.,order_issue,neutral,medium,resolved
+"My payment failed, what should I do?",order_status,negative,medium,resolved
+I need help updating my account details.,tracking,negative,low,resolved
+How do I reset my password?,payment_issue,positive,high,unresolved
+Can I upgrade my current subscription plan?,returns,negative,low,pending
+"My payment failed, what should I do?",order_status,positive,high,resolved
+My order has not arrived yet.,human_agent,neutral,high,unresolved
+How do I return an item I purchased?,account_update,positive,high,resolved
+I was charged incorrectly on my bill.,order_issue,neutral,high,resolved
+How do I change my delivery address?,delivery,positive,low,pending
+Can I speak to a human agent?,login_issue,positive,high,unresolved
+Do you offer discounts for students?,refund,positive,high,pending
+Can I get a refund for my last purchase?,order_status,positive,high,resolved
+The customer service number is not working.,account_issue,negative,high,pending
+Why is my order status still pending?,upgrade,negative,medium,unresolved
+The customer service number is not working.,delivery,negative,high,resolved
+I need help updating my account details.,billing,neutral,low,resolved
+Can I speak to a human agent?,payment_issue,negative,high,resolved
+My login credentials are not working.,billing,negative,high,pending
+I was charged incorrectly on my bill.,payment_issue,neutral,high,unresolved
+I need help updating my account details.,order_status,positive,low,pending
+"I received a wrong item, can I exchange it?",app_crash,neutral,medium,pending
+I want to cancel my subscription.,refund,negative,low,unresolved
+Why is my order status still pending?,upgrade,neutral,medium,pending
+The internet connection is too slow.,service_issue,positive,high,pending
+I need help updating my account details.,wrong_item,neutral,medium,unresolved
+Do you offer discounts for students?,payment_issue,negative,high,pending
+The internet connection is too slow.,order_status,positive,medium,resolved
+The internet connection is too slow.,billing,negative,high,pending
+Do you offer discounts for students?,service_issue,neutral,low,unresolved
+Can I speak to a human agent?,refund,neutral,low,pending
+"My mobile app keeps crashing, can you fix it?",discount,positive,high,pending
+How do I change my delivery address?,account_issue,neutral,low,resolved
+Can I get a refund for my last purchase?,delivery,neutral,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",returns,negative,low,pending
+The customer service number is not working.,human_agent,positive,medium,unresolved
+"My payment failed, what should I do?",account_issue,negative,high,unresolved
+Can I speak to a human agent?,technical_support,positive,medium,pending
+Can I get a refund for my last purchase?,order_status,positive,medium,pending
+The internet connection is too slow.,refund,negative,medium,resolved
+How do I return an item I purchased?,billing,negative,low,pending
+Can I speak to a human agent?,app_crash,neutral,medium,pending
+Can I upgrade my current subscription plan?,discount,negative,medium,resolved
+The internet connection is too slow.,account_update,negative,high,resolved
+Can I upgrade my current subscription plan?,billing,neutral,low,unresolved
+I want to cancel my subscription.,upgrade,negative,medium,resolved
+How do I return an item I purchased?,human_agent,neutral,high,resolved
+How do I return an item I purchased?,payment_issue,positive,medium,unresolved
+I need help updating my account details.,payment_issue,positive,low,pending
+"My mobile app keeps crashing, can you fix it?",login_issue,neutral,medium,unresolved
+"My credit card was declined, what now?",login_issue,neutral,medium,pending
+The customer service number is not working.,tracking,negative,low,resolved
+Why is my order status still pending?,payment_issue,positive,medium,unresolved
+I was charged incorrectly on my bill.,account_issue,negative,high,pending
+"I received a wrong item, can I exchange it?",wrong_item,negative,medium,resolved
+"I received a wrong item, can I exchange it?",card_declined,neutral,medium,unresolved
+The internet connection is too slow.,technical_support,negative,high,unresolved
+"My payment failed, what should I do?",wrong_item,neutral,low,unresolved
+I was charged incorrectly on my bill.,delivery,positive,high,resolved
+Why is my order status still pending?,tracking,positive,high,pending
+How do I reset my password?,account_update,negative,low,unresolved
+Do you offer discounts for students?,refund,positive,medium,unresolved
+The internet connection is too slow.,returns,neutral,medium,pending
+I want to cancel my subscription.,human_agent,neutral,medium,pending
+"My credit card was declined, what now?",billing,negative,high,unresolved
+The internet connection is too slow.,technical_support,negative,low,pending
+I need help updating my account details.,subscription,positive,low,unresolved
+The customer service number is not working.,service_issue,positive,medium,unresolved
+My login credentials are not working.,technical_support,negative,low,unresolved
+The internet connection is too slow.,subscription,negative,medium,unresolved
+Why is my order status still pending?,subscription,negative,low,pending
+"My mobile app keeps crashing, can you fix it?",order_issue,neutral,medium,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,positive,high,resolved
+I am unable to track my package.,login_issue,negative,low,resolved
+"My payment failed, what should I do?",subscription,neutral,low,resolved
+The customer service number is not working.,service_issue,positive,medium,unresolved
+The customer service number is not working.,tracking,negative,low,unresolved
+"My payment failed, what should I do?",account_update,neutral,medium,resolved
+The customer service number is not working.,order_status,negative,high,pending
+"I received a wrong item, can I exchange it?",subscription,negative,high,unresolved
+"My credit card was declined, what now?",refund,neutral,low,unresolved
+I need help updating my account details.,account_issue,neutral,low,unresolved
+The customer service number is not working.,account_issue,positive,medium,unresolved
+Can I get a refund for my last purchase?,upgrade,positive,high,resolved
+"I received a wrong item, can I exchange it?",card_declined,negative,medium,unresolved
+"My payment failed, what should I do?",returns,neutral,medium,unresolved
+Can I get a refund for my last purchase?,card_declined,negative,medium,resolved
+I was charged incorrectly on my bill.,login_issue,neutral,high,resolved
+I was charged incorrectly on my bill.,technical_support,negative,low,resolved
+The internet connection is too slow.,wrong_item,negative,medium,resolved
+Why is my order status still pending?,service_issue,positive,medium,pending
+Do you offer discounts for students?,app_crash,neutral,high,unresolved
+My order has not arrived yet.,login_issue,positive,high,pending
+How do I change my delivery address?,returns,positive,medium,pending
+How do I reset my password?,service_issue,positive,low,pending
+My login credentials are not working.,tracking,neutral,high,unresolved
+I was charged incorrectly on my bill.,wrong_item,neutral,low,resolved
+"My payment failed, what should I do?",returns,negative,high,resolved
+I am unable to track my package.,service_issue,negative,low,unresolved
+Why is my order status still pending?,refund,neutral,low,resolved
+I need help updating my account details.,card_declined,neutral,high,resolved
+I want to cancel my subscription.,order_issue,neutral,medium,unresolved
+My login credentials are not working.,payment_issue,neutral,low,unresolved
+I want to cancel my subscription.,wrong_item,neutral,medium,pending
+"I received a wrong item, can I exchange it?",payment_issue,positive,medium,pending
+My login credentials are not working.,delivery,negative,low,unresolved
+"My payment failed, what should I do?",service_issue,positive,medium,unresolved
+Can I upgrade my current subscription plan?,returns,negative,high,unresolved
+Can I get a refund for my last purchase?,subscription,neutral,medium,resolved
+I want to cancel my subscription.,account_issue,positive,medium,resolved
+"I received a wrong item, can I exchange it?",order_issue,neutral,medium,resolved
+Can I get a refund for my last purchase?,login_issue,neutral,medium,pending
+"I received a wrong item, can I exchange it?",human_agent,negative,low,pending
+Can I speak to a human agent?,account_update,neutral,medium,unresolved
+I am unable to track my package.,card_declined,neutral,high,pending
+"My credit card was declined, what now?",upgrade,negative,low,pending
+I want to cancel my subscription.,account_issue,positive,low,unresolved
+Can I upgrade my current subscription plan?,billing,negative,low,resolved
+Can I speak to a human agent?,upgrade,negative,medium,pending
+I want to cancel my subscription.,service_issue,neutral,low,resolved
+The customer service number is not working.,order_status,negative,low,resolved
+"My credit card was declined, what now?",billing,positive,high,unresolved
+How do I return an item I purchased?,payment_issue,negative,medium,pending
+The customer service number is not working.,account_update,negative,high,unresolved
+I am unable to track my package.,billing,neutral,high,resolved
+My order has not arrived yet.,billing,positive,low,unresolved
+I need help updating my account details.,billing,neutral,high,unresolved
+My login credentials are not working.,billing,positive,medium,unresolved
+"My credit card was declined, what now?",wrong_item,negative,low,pending
+"My credit card was declined, what now?",payment_issue,positive,low,resolved
+I was charged incorrectly on my bill.,app_crash,negative,medium,pending
+Can I speak to a human agent?,account_issue,positive,high,resolved
+I am unable to track my package.,app_crash,positive,medium,pending
+Can I speak to a human agent?,login_issue,positive,high,unresolved
+Can I upgrade my current subscription plan?,technical_support,positive,low,resolved
+My order has not arrived yet.,returns,neutral,high,unresolved
+My login credentials are not working.,order_status,neutral,high,resolved
+"My mobile app keeps crashing, can you fix it?",delivery,positive,medium,pending
+I want to cancel my subscription.,account_issue,positive,low,unresolved
+"My payment failed, what should I do?",human_agent,neutral,high,resolved
+How do I change my delivery address?,discount,negative,high,resolved
+The customer service number is not working.,billing,neutral,medium,unresolved
+I was charged incorrectly on my bill.,service_issue,neutral,high,pending
+My login credentials are not working.,subscription,negative,medium,unresolved
+Can I speak to a human agent?,tracking,positive,medium,resolved
+The customer service number is not working.,subscription,positive,low,pending
+The customer service number is not working.,technical_support,positive,low,unresolved
+"My credit card was declined, what now?",discount,positive,low,resolved
+I am unable to track my package.,delivery,positive,high,resolved
+I need help updating my account details.,wrong_item,neutral,low,resolved
+How do I reset my password?,human_agent,positive,medium,pending
+Can I speak to a human agent?,tracking,neutral,medium,resolved
+"My credit card was declined, what now?",billing,negative,low,pending
+Can I upgrade my current subscription plan?,service_issue,positive,low,unresolved
+I am unable to track my package.,technical_support,negative,medium,resolved
+I want to cancel my subscription.,refund,negative,medium,pending
+I was charged incorrectly on my bill.,service_issue,positive,high,unresolved
+Do you offer discounts for students?,tracking,negative,medium,resolved
+"My credit card was declined, what now?",delivery,positive,high,pending
+My order has not arrived yet.,upgrade,negative,medium,pending
+"My payment failed, what should I do?",card_declined,neutral,low,pending
+I need help updating my account details.,refund,positive,high,unresolved
+Can I speak to a human agent?,delivery,positive,medium,pending
+The customer service number is not working.,subscription,negative,low,resolved
+Why is my order status still pending?,tracking,negative,medium,resolved
+Why is my order status still pending?,login_issue,positive,medium,resolved
+Can I upgrade my current subscription plan?,refund,positive,low,pending
+"I received a wrong item, can I exchange it?",refund,positive,medium,unresolved
+Why is my order status still pending?,account_issue,negative,high,pending
+How do I change my delivery address?,technical_support,negative,medium,unresolved
+How do I return an item I purchased?,service_issue,neutral,high,resolved
+Can I upgrade my current subscription plan?,tracking,negative,medium,unresolved
+The internet connection is too slow.,human_agent,positive,high,resolved
+I want to cancel my subscription.,billing,negative,high,pending
+My order has not arrived yet.,account_issue,neutral,high,unresolved
+Can I upgrade my current subscription plan?,delivery,negative,medium,unresolved
+I was charged incorrectly on my bill.,upgrade,positive,low,pending
+I want to cancel my subscription.,discount,positive,medium,resolved
+I was charged incorrectly on my bill.,account_update,negative,low,pending
+Can I get a refund for my last purchase?,technical_support,positive,high,resolved
+How do I change my delivery address?,account_issue,neutral,medium,pending
+Why is my order status still pending?,wrong_item,negative,low,resolved
+How do I change my delivery address?,upgrade,positive,low,pending
+"My mobile app keeps crashing, can you fix it?",upgrade,positive,low,resolved
+Can I get a refund for my last purchase?,returns,neutral,high,pending
+How do I reset my password?,tracking,neutral,medium,pending
+The customer service number is not working.,refund,neutral,high,pending
+My login credentials are not working.,app_crash,positive,medium,pending
+I am unable to track my package.,app_crash,neutral,medium,pending
+I want to cancel my subscription.,technical_support,negative,medium,resolved
+"I received a wrong item, can I exchange it?",human_agent,positive,high,pending
+"My credit card was declined, what now?",wrong_item,neutral,medium,unresolved
+My order has not arrived yet.,payment_issue,negative,low,resolved
+"I received a wrong item, can I exchange it?",account_issue,positive,medium,unresolved
+Can I speak to a human agent?,discount,neutral,high,unresolved
+Why is my order status still pending?,tracking,negative,medium,unresolved
+Can I speak to a human agent?,tracking,neutral,high,pending
+How do I change my delivery address?,discount,neutral,medium,pending
+The customer service number is not working.,technical_support,positive,high,unresolved
+"I received a wrong item, can I exchange it?",app_crash,neutral,low,resolved
+My order has not arrived yet.,payment_issue,negative,low,pending
+Can I get a refund for my last purchase?,delivery,positive,medium,pending
+Can I upgrade my current subscription plan?,order_status,positive,medium,resolved
+I was charged incorrectly on my bill.,order_issue,negative,high,pending
+Can I upgrade my current subscription plan?,discount,negative,low,resolved
+I was charged incorrectly on my bill.,login_issue,neutral,high,unresolved
+"My credit card was declined, what now?",returns,neutral,medium,pending
+"My credit card was declined, what now?",subscription,negative,high,unresolved
+The internet connection is too slow.,tracking,neutral,high,pending
+"My credit card was declined, what now?",refund,negative,high,resolved
+I was charged incorrectly on my bill.,returns,neutral,low,unresolved
+Can I get a refund for my last purchase?,human_agent,negative,low,resolved
+"My payment failed, what should I do?",delivery,negative,high,unresolved
+My login credentials are not working.,subscription,negative,high,resolved
+"I received a wrong item, can I exchange it?",payment_issue,positive,medium,unresolved
+The internet connection is too slow.,order_status,negative,low,unresolved
+Why is my order status still pending?,order_issue,neutral,low,unresolved
+"My credit card was declined, what now?",tracking,negative,high,resolved
+I am unable to track my package.,wrong_item,positive,medium,resolved
+The customer service number is not working.,login_issue,neutral,medium,unresolved
+Can I get a refund for my last purchase?,returns,negative,low,resolved
+Can I speak to a human agent?,technical_support,negative,low,unresolved
+"My payment failed, what should I do?",order_status,positive,high,resolved
+The internet connection is too slow.,payment_issue,negative,low,pending
+Why is my order status still pending?,app_crash,negative,low,pending
+How do I change my delivery address?,payment_issue,negative,high,unresolved
+"I received a wrong item, can I exchange it?",human_agent,negative,medium,resolved
+I am unable to track my package.,subscription,positive,low,resolved
+I was charged incorrectly on my bill.,refund,positive,low,resolved
+How do I reset my password?,login_issue,negative,low,pending
+The customer service number is not working.,service_issue,negative,low,resolved
+"My credit card was declined, what now?",upgrade,neutral,medium,resolved
+How do I reset my password?,account_update,positive,low,resolved
+My login credentials are not working.,technical_support,neutral,medium,resolved
+My order has not arrived yet.,app_crash,positive,low,resolved
+Can I upgrade my current subscription plan?,upgrade,neutral,low,unresolved
+How do I change my delivery address?,account_issue,negative,high,unresolved
+"My credit card was declined, what now?",returns,positive,low,pending
+Can I upgrade my current subscription plan?,login_issue,positive,medium,resolved
+My order has not arrived yet.,service_issue,positive,low,resolved
+"My credit card was declined, what now?",login_issue,neutral,high,resolved
+"I received a wrong item, can I exchange it?",login_issue,positive,low,unresolved
+The customer service number is not working.,login_issue,negative,medium,unresolved
+"My credit card was declined, what now?",human_agent,negative,high,resolved
+"My credit card was declined, what now?",app_crash,positive,low,unresolved
+Can I upgrade my current subscription plan?,order_status,negative,low,unresolved
+I am unable to track my package.,delivery,positive,medium,resolved
+How do I return an item I purchased?,payment_issue,positive,low,pending
+I am unable to track my package.,tracking,negative,high,resolved
+Can I get a refund for my last purchase?,tracking,negative,medium,resolved
+The internet connection is too slow.,account_update,neutral,high,resolved
+Can I upgrade my current subscription plan?,order_status,negative,high,pending
+"My payment failed, what should I do?",returns,neutral,medium,pending
+Can I get a refund for my last purchase?,app_crash,positive,high,unresolved
+I was charged incorrectly on my bill.,app_crash,negative,medium,resolved
+Can I upgrade my current subscription plan?,refund,neutral,high,resolved
+I am unable to track my package.,upgrade,positive,high,unresolved
+My order has not arrived yet.,tracking,negative,medium,pending
+The customer service number is not working.,card_declined,positive,low,unresolved
+I was charged incorrectly on my bill.,discount,positive,low,resolved
+Why is my order status still pending?,payment_issue,positive,medium,unresolved
+How do I return an item I purchased?,subscription,neutral,low,resolved
+I was charged incorrectly on my bill.,order_issue,negative,medium,resolved
+Why is my order status still pending?,wrong_item,positive,high,resolved
+My login credentials are not working.,discount,negative,medium,unresolved
+I want to cancel my subscription.,subscription,positive,medium,resolved
+I am unable to track my package.,delivery,neutral,high,unresolved
+I am unable to track my package.,refund,positive,low,pending
+My login credentials are not working.,card_declined,neutral,low,unresolved
+"I received a wrong item, can I exchange it?",card_declined,negative,low,pending
+Do you offer discounts for students?,billing,negative,high,pending
+How do I return an item I purchased?,technical_support,neutral,medium,unresolved
+Can I get a refund for my last purchase?,app_crash,positive,low,resolved
+My order has not arrived yet.,payment_issue,negative,high,unresolved
+Can I speak to a human agent?,billing,negative,high,pending
+"I received a wrong item, can I exchange it?",wrong_item,neutral,medium,pending
+Can I speak to a human agent?,wrong_item,neutral,high,pending
+I need help updating my account details.,refund,negative,low,unresolved
+The internet connection is too slow.,tracking,negative,high,unresolved
+Why is my order status still pending?,human_agent,negative,low,resolved
+Why is my order status still pending?,subscription,negative,high,unresolved
+I need help updating my account details.,account_update,positive,high,unresolved
+I was charged incorrectly on my bill.,service_issue,neutral,low,resolved
+The internet connection is too slow.,service_issue,negative,low,pending
+I want to cancel my subscription.,subscription,negative,low,resolved
+Can I upgrade my current subscription plan?,card_declined,neutral,medium,unresolved
+How do I reset my password?,wrong_item,positive,high,resolved
+"My payment failed, what should I do?",order_issue,positive,medium,pending
+"My payment failed, what should I do?",order_status,positive,medium,resolved
+"I received a wrong item, can I exchange it?",order_status,positive,high,unresolved
+Why is my order status still pending?,subscription,neutral,low,pending
+Can I speak to a human agent?,returns,negative,medium,pending
+I was charged incorrectly on my bill.,delivery,negative,low,unresolved
+The internet connection is too slow.,technical_support,positive,high,resolved
+I need help updating my account details.,subscription,negative,medium,unresolved
+"My payment failed, what should I do?",app_crash,neutral,high,resolved
+"My credit card was declined, what now?",billing,negative,high,pending
+"My payment failed, what should I do?",discount,positive,low,unresolved
+Why is my order status still pending?,subscription,neutral,low,unresolved
+Why is my order status still pending?,service_issue,positive,high,resolved
+The internet connection is too slow.,order_status,positive,low,resolved
+Why is my order status still pending?,upgrade,positive,medium,resolved
+"My credit card was declined, what now?",discount,positive,medium,resolved
+How do I reset my password?,subscription,positive,low,unresolved
+Can I speak to a human agent?,refund,negative,low,resolved
+I was charged incorrectly on my bill.,wrong_item,positive,medium,unresolved
+I need help updating my account details.,delivery,neutral,medium,pending
+I want to cancel my subscription.,billing,positive,low,resolved
+I want to cancel my subscription.,wrong_item,positive,high,unresolved
+"I received a wrong item, can I exchange it?",refund,negative,medium,unresolved
+My order has not arrived yet.,human_agent,positive,medium,resolved
+How do I change my delivery address?,delivery,negative,low,unresolved
+I want to cancel my subscription.,order_issue,negative,high,pending
+"My credit card was declined, what now?",discount,positive,medium,resolved
+"My credit card was declined, what now?",service_issue,neutral,high,unresolved
+My login credentials are not working.,human_agent,neutral,high,resolved
+How do I return an item I purchased?,login_issue,negative,medium,unresolved
+Can I speak to a human agent?,tracking,positive,medium,resolved
+My order has not arrived yet.,payment_issue,positive,medium,resolved
+My login credentials are not working.,order_status,negative,high,pending
+"My credit card was declined, what now?",order_issue,positive,low,resolved
+How do I change my delivery address?,app_crash,positive,high,pending
+Can I speak to a human agent?,upgrade,positive,medium,unresolved
+I need help updating my account details.,billing,negative,low,pending
+How do I change my delivery address?,refund,neutral,medium,pending
+How do I reset my password?,payment_issue,negative,high,pending
+"I received a wrong item, can I exchange it?",discount,positive,medium,resolved
+My order has not arrived yet.,subscription,negative,medium,resolved
+"I received a wrong item, can I exchange it?",upgrade,neutral,high,resolved
+"My mobile app keeps crashing, can you fix it?",returns,negative,low,pending
+How do I reset my password?,order_issue,positive,medium,resolved
+My order has not arrived yet.,account_update,neutral,high,pending
+I need help updating my account details.,tracking,positive,medium,pending
+"My mobile app keeps crashing, can you fix it?",account_update,positive,high,unresolved
+How do I change my delivery address?,tracking,positive,low,resolved
+My order has not arrived yet.,account_issue,negative,high,resolved
+Can I get a refund for my last purchase?,human_agent,negative,high,pending
+Do you offer discounts for students?,service_issue,positive,low,pending
+I was charged incorrectly on my bill.,technical_support,negative,low,unresolved
+Why is my order status still pending?,wrong_item,positive,high,pending
+I need help updating my account details.,order_issue,positive,low,resolved
+My login credentials are not working.,refund,negative,high,pending
+How do I return an item I purchased?,billing,neutral,high,resolved
+My login credentials are not working.,wrong_item,neutral,low,resolved
+"My credit card was declined, what now?",subscription,positive,low,pending
+Can I speak to a human agent?,wrong_item,negative,low,resolved
+Can I upgrade my current subscription plan?,app_crash,neutral,high,unresolved
+Why is my order status still pending?,billing,negative,high,resolved
+I was charged incorrectly on my bill.,payment_issue,positive,medium,resolved
+I want to cancel my subscription.,card_declined,neutral,medium,resolved
+I want to cancel my subscription.,technical_support,negative,high,pending
+How do I reset my password?,app_crash,positive,high,unresolved
+"My credit card was declined, what now?",discount,positive,high,unresolved
+My login credentials are not working.,subscription,negative,low,pending
+"My credit card was declined, what now?",card_declined,neutral,medium,unresolved
+"My credit card was declined, what now?",upgrade,negative,high,unresolved
+How do I return an item I purchased?,subscription,negative,high,pending
+My login credentials are not working.,delivery,negative,high,resolved
+How do I reset my password?,service_issue,neutral,low,pending
+The internet connection is too slow.,tracking,positive,low,resolved
+I want to cancel my subscription.,billing,negative,medium,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,positive,low,pending
+I need help updating my account details.,account_issue,negative,high,pending
+I was charged incorrectly on my bill.,login_issue,positive,high,unresolved
+How do I reset my password?,refund,negative,low,pending
+I need help updating my account details.,payment_issue,neutral,high,pending
+I need help updating my account details.,tracking,neutral,high,unresolved
+Why is my order status still pending?,billing,negative,low,pending
+"I received a wrong item, can I exchange it?",payment_issue,positive,medium,unresolved
+The internet connection is too slow.,order_issue,positive,low,pending
+My login credentials are not working.,discount,negative,low,pending
+The internet connection is too slow.,login_issue,positive,high,pending
+I am unable to track my package.,discount,neutral,high,pending
+"My payment failed, what should I do?",order_issue,positive,medium,unresolved
+Can I get a refund for my last purchase?,payment_issue,neutral,low,unresolved
+Can I upgrade my current subscription plan?,account_issue,neutral,high,unresolved
+My order has not arrived yet.,refund,positive,low,unresolved
+How do I change my delivery address?,order_issue,neutral,high,unresolved
+How do I change my delivery address?,account_update,negative,high,pending
+The customer service number is not working.,app_crash,positive,high,unresolved
+My order has not arrived yet.,account_issue,positive,high,unresolved
+I was charged incorrectly on my bill.,account_issue,negative,low,unresolved
+How do I change my delivery address?,human_agent,neutral,low,unresolved
+My order has not arrived yet.,account_issue,positive,medium,resolved
+Why is my order status still pending?,card_declined,positive,medium,pending
+How do I change my delivery address?,delivery,positive,high,unresolved
+I need help updating my account details.,discount,negative,high,unresolved
+The internet connection is too slow.,human_agent,neutral,high,unresolved
+The internet connection is too slow.,tracking,negative,high,pending
+Can I upgrade my current subscription plan?,app_crash,positive,medium,resolved
+I need help updating my account details.,upgrade,negative,low,pending
+"I received a wrong item, can I exchange it?",returns,neutral,medium,unresolved
+I need help updating my account details.,discount,positive,high,resolved
+My order has not arrived yet.,subscription,neutral,medium,unresolved
+"My credit card was declined, what now?",account_update,neutral,high,resolved
+I need help updating my account details.,service_issue,positive,high,resolved
+Can I upgrade my current subscription plan?,returns,neutral,low,unresolved
+"My mobile app keeps crashing, can you fix it?",delivery,positive,high,pending
+Do you offer discounts for students?,payment_issue,negative,medium,pending
+Do you offer discounts for students?,returns,positive,low,pending
+Do you offer discounts for students?,order_status,negative,medium,resolved
+"I received a wrong item, can I exchange it?",human_agent,neutral,high,resolved
+Can I upgrade my current subscription plan?,order_issue,negative,medium,resolved
+I am unable to track my package.,app_crash,neutral,high,pending
+Why is my order status still pending?,technical_support,negative,low,unresolved
+"My credit card was declined, what now?",payment_issue,negative,high,pending
+I am unable to track my package.,card_declined,neutral,high,resolved
+"My payment failed, what should I do?",delivery,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",subscription,positive,high,resolved
+My order has not arrived yet.,discount,neutral,medium,pending
+Can I speak to a human agent?,account_issue,neutral,high,unresolved
+I am unable to track my package.,returns,positive,high,resolved
+How do I return an item I purchased?,order_status,neutral,low,resolved
+Can I get a refund for my last purchase?,payment_issue,neutral,medium,resolved
+"My payment failed, what should I do?",technical_support,negative,medium,pending
+The customer service number is not working.,subscription,negative,low,resolved
+I want to cancel my subscription.,billing,negative,medium,unresolved
+My login credentials are not working.,app_crash,neutral,medium,pending
+Do you offer discounts for students?,tracking,positive,high,resolved
+Can I speak to a human agent?,tracking,negative,medium,pending
+"My mobile app keeps crashing, can you fix it?",discount,neutral,medium,pending
+Why is my order status still pending?,order_issue,negative,high,unresolved
+Can I upgrade my current subscription plan?,card_declined,negative,medium,pending
+"I received a wrong item, can I exchange it?",tracking,neutral,medium,pending
+How do I change my delivery address?,wrong_item,negative,medium,unresolved
+How do I reset my password?,app_crash,negative,medium,resolved
+"My credit card was declined, what now?",card_declined,negative,low,pending
+I need help updating my account details.,discount,neutral,medium,pending
+Can I speak to a human agent?,returns,negative,high,pending
+How do I return an item I purchased?,order_status,positive,medium,unresolved
+My login credentials are not working.,billing,neutral,high,pending
+I need help updating my account details.,upgrade,negative,medium,pending
+My login credentials are not working.,order_issue,neutral,medium,unresolved
+The internet connection is too slow.,upgrade,neutral,high,unresolved
+How do I reset my password?,subscription,negative,low,unresolved
+The internet connection is too slow.,wrong_item,negative,low,resolved
+Can I get a refund for my last purchase?,technical_support,positive,medium,pending
+Can I get a refund for my last purchase?,refund,positive,low,unresolved
+Can I upgrade my current subscription plan?,refund,negative,high,pending
+How do I reset my password?,billing,positive,high,unresolved
+How do I change my delivery address?,discount,positive,medium,pending
+My login credentials are not working.,discount,neutral,low,unresolved
+I was charged incorrectly on my bill.,payment_issue,positive,medium,pending
+"My mobile app keeps crashing, can you fix it?",payment_issue,positive,medium,pending
+How do I return an item I purchased?,order_status,negative,low,resolved
+The internet connection is too slow.,order_issue,positive,medium,pending
+How do I change my delivery address?,discount,negative,medium,unresolved
+Can I speak to a human agent?,service_issue,positive,high,unresolved
+How do I reset my password?,tracking,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",subscription,neutral,high,pending
+The internet connection is too slow.,returns,negative,low,unresolved
+Can I get a refund for my last purchase?,technical_support,positive,low,unresolved
+Do you offer discounts for students?,billing,neutral,low,pending
+The internet connection is too slow.,card_declined,neutral,high,unresolved
+I was charged incorrectly on my bill.,tracking,negative,medium,resolved
+"My mobile app keeps crashing, can you fix it?",billing,positive,low,resolved
+The customer service number is not working.,login_issue,negative,high,unresolved
+How do I change my delivery address?,login_issue,positive,high,pending
+My login credentials are not working.,technical_support,negative,low,unresolved
+The customer service number is not working.,delivery,positive,medium,unresolved
+I want to cancel my subscription.,card_declined,positive,medium,unresolved
+My login credentials are not working.,billing,negative,high,resolved
+Can I upgrade my current subscription plan?,refund,negative,medium,pending
+The internet connection is too slow.,returns,negative,high,resolved
+"My credit card was declined, what now?",human_agent,positive,high,resolved
+Can I get a refund for my last purchase?,service_issue,neutral,high,unresolved
+I need help updating my account details.,account_update,neutral,high,resolved
+Can I upgrade my current subscription plan?,login_issue,negative,high,resolved
+"My credit card was declined, what now?",billing,neutral,high,unresolved
+"I received a wrong item, can I exchange it?",card_declined,neutral,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",order_issue,negative,high,pending
+My login credentials are not working.,card_declined,negative,low,unresolved
+Can I upgrade my current subscription plan?,account_issue,positive,low,unresolved
+"My credit card was declined, what now?",app_crash,positive,high,resolved
+I am unable to track my package.,delivery,positive,high,unresolved
+I was charged incorrectly on my bill.,technical_support,positive,high,unresolved
+How do I reset my password?,human_agent,negative,medium,resolved
+I need help updating my account details.,card_declined,negative,medium,resolved
+How do I change my delivery address?,order_issue,positive,low,resolved
+I am unable to track my package.,technical_support,negative,high,pending
+How do I reset my password?,app_crash,neutral,medium,resolved
+"My credit card was declined, what now?",order_issue,positive,medium,unresolved
+How do I return an item I purchased?,discount,positive,medium,resolved
+Can I get a refund for my last purchase?,payment_issue,negative,high,unresolved
+I was charged incorrectly on my bill.,login_issue,neutral,medium,unresolved
+How do I reset my password?,order_issue,positive,high,resolved
+How do I return an item I purchased?,delivery,neutral,medium,resolved
+"My credit card was declined, what now?",subscription,negative,high,resolved
+"My mobile app keeps crashing, can you fix it?",refund,negative,low,unresolved
+Do you offer discounts for students?,order_status,negative,high,pending
+"My payment failed, what should I do?",service_issue,positive,medium,unresolved
+Why is my order status still pending?,payment_issue,neutral,high,resolved
+Do you offer discounts for students?,account_issue,negative,high,resolved
+How do I reset my password?,login_issue,positive,low,unresolved
+How do I return an item I purchased?,delivery,positive,medium,resolved
+My order has not arrived yet.,returns,positive,high,pending
+How do I reset my password?,order_issue,neutral,low,resolved
+"I received a wrong item, can I exchange it?",tracking,negative,low,resolved
+Can I speak to a human agent?,payment_issue,neutral,high,pending
+"My mobile app keeps crashing, can you fix it?",account_issue,positive,low,pending
+Can I upgrade my current subscription plan?,technical_support,negative,high,unresolved
+"My mobile app keeps crashing, can you fix it?",billing,positive,medium,pending
+The customer service number is not working.,tracking,positive,high,pending
+Can I upgrade my current subscription plan?,technical_support,negative,low,unresolved
+I want to cancel my subscription.,app_crash,negative,medium,pending
+How do I reset my password?,order_issue,positive,low,resolved
+Can I get a refund for my last purchase?,account_update,positive,low,resolved
+The internet connection is too slow.,wrong_item,neutral,high,resolved
+Why is my order status still pending?,upgrade,positive,low,resolved
+Can I upgrade my current subscription plan?,refund,neutral,medium,pending
+Do you offer discounts for students?,order_issue,neutral,medium,unresolved
+Can I get a refund for my last purchase?,discount,negative,medium,resolved
+The customer service number is not working.,refund,neutral,medium,unresolved
+I am unable to track my package.,account_issue,negative,low,pending
+Can I upgrade my current subscription plan?,wrong_item,positive,low,resolved
+The customer service number is not working.,subscription,positive,high,unresolved
+My order has not arrived yet.,billing,negative,high,unresolved
+I want to cancel my subscription.,card_declined,neutral,low,resolved
+The customer service number is not working.,technical_support,negative,low,pending
+"I received a wrong item, can I exchange it?",delivery,positive,high,pending
+I need help updating my account details.,refund,negative,high,resolved
+I am unable to track my package.,app_crash,positive,medium,resolved
+"My mobile app keeps crashing, can you fix it?",account_update,negative,high,resolved
+"My mobile app keeps crashing, can you fix it?",account_issue,positive,medium,resolved
+My login credentials are not working.,account_issue,negative,low,resolved
+I want to cancel my subscription.,order_issue,negative,medium,unresolved
+How do I reset my password?,discount,positive,medium,unresolved
+I want to cancel my subscription.,card_declined,neutral,high,pending
+My login credentials are not working.,order_status,negative,low,resolved
+I was charged incorrectly on my bill.,returns,positive,medium,pending
+Can I speak to a human agent?,discount,neutral,low,unresolved
+Can I get a refund for my last purchase?,technical_support,negative,high,unresolved
+Can I speak to a human agent?,refund,negative,high,unresolved
+Why is my order status still pending?,account_issue,neutral,high,pending
+Can I speak to a human agent?,card_declined,neutral,low,unresolved
+How do I return an item I purchased?,wrong_item,neutral,low,pending
+My login credentials are not working.,app_crash,neutral,high,pending
+I want to cancel my subscription.,order_issue,neutral,low,pending
+My order has not arrived yet.,upgrade,neutral,medium,resolved
+The customer service number is not working.,human_agent,positive,medium,pending
+"My mobile app keeps crashing, can you fix it?",subscription,negative,low,resolved
+How do I change my delivery address?,returns,negative,medium,pending
+My login credentials are not working.,order_issue,negative,low,unresolved
+I want to cancel my subscription.,app_crash,positive,low,pending
+Do you offer discounts for students?,account_issue,neutral,high,pending
+My order has not arrived yet.,service_issue,positive,medium,unresolved
+Can I speak to a human agent?,card_declined,negative,medium,pending
+My order has not arrived yet.,account_update,negative,low,pending
+How do I return an item I purchased?,discount,neutral,medium,unresolved
+The internet connection is too slow.,account_issue,positive,high,pending
+Can I get a refund for my last purchase?,order_status,neutral,high,unresolved
+The customer service number is not working.,service_issue,positive,medium,unresolved
+Can I speak to a human agent?,upgrade,negative,low,pending
+The internet connection is too slow.,order_status,positive,medium,unresolved
+I need help updating my account details.,payment_issue,negative,medium,unresolved
+How do I change my delivery address?,payment_issue,neutral,high,resolved
+The customer service number is not working.,card_declined,positive,high,resolved
+Can I get a refund for my last purchase?,payment_issue,negative,high,resolved
+My login credentials are not working.,payment_issue,negative,low,resolved
+Can I get a refund for my last purchase?,upgrade,negative,high,pending
+"My mobile app keeps crashing, can you fix it?",order_status,positive,high,unresolved
+"My credit card was declined, what now?",wrong_item,positive,low,pending
+How do I return an item I purchased?,discount,negative,low,unresolved
+My order has not arrived yet.,account_update,positive,medium,pending
+The internet connection is too slow.,account_update,positive,low,unresolved
+"My mobile app keeps crashing, can you fix it?",refund,neutral,low,unresolved
+"My credit card was declined, what now?",card_declined,positive,medium,pending
+Do you offer discounts for students?,subscription,negative,low,pending
+I was charged incorrectly on my bill.,discount,negative,low,pending
+I want to cancel my subscription.,wrong_item,negative,high,resolved
+"My payment failed, what should I do?",tracking,negative,low,resolved
+The customer service number is not working.,discount,neutral,high,resolved
+"My mobile app keeps crashing, can you fix it?",tracking,neutral,low,unresolved
+I am unable to track my package.,returns,positive,high,resolved
+I need help updating my account details.,discount,negative,medium,pending
+I am unable to track my package.,order_issue,negative,high,pending
+The internet connection is too slow.,login_issue,neutral,low,resolved
+The internet connection is too slow.,payment_issue,neutral,medium,resolved
+Can I get a refund for my last purchase?,payment_issue,negative,high,unresolved
+How do I reset my password?,upgrade,negative,low,pending
+I am unable to track my package.,upgrade,positive,low,pending
+"My mobile app keeps crashing, can you fix it?",login_issue,negative,low,unresolved
+"My payment failed, what should I do?",technical_support,negative,low,resolved
+"I received a wrong item, can I exchange it?",delivery,neutral,low,unresolved
+"My mobile app keeps crashing, can you fix it?",delivery,positive,high,unresolved
+"My mobile app keeps crashing, can you fix it?",subscription,negative,high,pending
+The customer service number is not working.,upgrade,neutral,high,resolved
+Do you offer discounts for students?,wrong_item,negative,low,resolved
+How do I return an item I purchased?,account_update,neutral,low,resolved
+How do I return an item I purchased?,returns,neutral,medium,unresolved
+I need help updating my account details.,upgrade,positive,low,resolved
+I am unable to track my package.,app_crash,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",returns,negative,low,unresolved
+The internet connection is too slow.,refund,positive,high,resolved
+"My payment failed, what should I do?",payment_issue,neutral,high,pending
+How do I reset my password?,card_declined,negative,medium,resolved
+I need help updating my account details.,app_crash,neutral,low,unresolved
+Do you offer discounts for students?,service_issue,negative,low,pending
+Can I upgrade my current subscription plan?,card_declined,positive,high,unresolved
+Can I speak to a human agent?,refund,negative,medium,resolved
+I was charged incorrectly on my bill.,delivery,positive,high,resolved
+How do I return an item I purchased?,tracking,neutral,high,pending
+My order has not arrived yet.,app_crash,neutral,high,unresolved
+Can I upgrade my current subscription plan?,payment_issue,neutral,low,resolved
+I need help updating my account details.,human_agent,positive,low,resolved
+I am unable to track my package.,subscription,positive,low,resolved
+My order has not arrived yet.,technical_support,positive,low,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,negative,high,resolved
+The internet connection is too slow.,account_issue,positive,medium,unresolved
+Why is my order status still pending?,technical_support,neutral,low,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,negative,high,pending
+Can I speak to a human agent?,login_issue,positive,low,unresolved
+Can I get a refund for my last purchase?,delivery,positive,high,pending
+"My mobile app keeps crashing, can you fix it?",order_issue,positive,medium,pending
+The internet connection is too slow.,wrong_item,neutral,low,resolved
+Can I upgrade my current subscription plan?,delivery,negative,high,pending
+How do I return an item I purchased?,subscription,negative,high,resolved
+The internet connection is too slow.,returns,negative,low,unresolved
+"My payment failed, what should I do?",technical_support,negative,medium,unresolved
+My login credentials are not working.,tracking,negative,low,unresolved
+"My mobile app keeps crashing, can you fix it?",returns,neutral,medium,resolved
+My order has not arrived yet.,subscription,neutral,medium,unresolved
+"I received a wrong item, can I exchange it?",wrong_item,positive,high,pending
+I want to cancel my subscription.,login_issue,positive,high,unresolved
+The internet connection is too slow.,login_issue,positive,high,pending
+My order has not arrived yet.,returns,negative,low,pending
+I need help updating my account details.,human_agent,neutral,high,pending
+"I received a wrong item, can I exchange it?",service_issue,negative,high,unresolved
+"I received a wrong item, can I exchange it?",subscription,positive,high,unresolved
+I need help updating my account details.,login_issue,positive,medium,pending
+Can I get a refund for my last purchase?,discount,positive,low,unresolved
+The internet connection is too slow.,billing,negative,medium,pending
+"My mobile app keeps crashing, can you fix it?",wrong_item,neutral,low,unresolved
+Can I upgrade my current subscription plan?,tracking,neutral,low,resolved
+My login credentials are not working.,order_status,neutral,low,pending
+How do I return an item I purchased?,wrong_item,neutral,low,unresolved
+I want to cancel my subscription.,tracking,negative,high,pending
+The customer service number is not working.,subscription,positive,high,pending
+Do you offer discounts for students?,login_issue,negative,medium,pending
+The customer service number is not working.,app_crash,negative,medium,pending
+The internet connection is too slow.,technical_support,negative,low,pending
+I am unable to track my package.,upgrade,neutral,medium,resolved
+My order has not arrived yet.,billing,positive,high,resolved
+The internet connection is too slow.,order_status,negative,low,pending
+I want to cancel my subscription.,login_issue,positive,medium,unresolved
+Can I speak to a human agent?,returns,neutral,low,unresolved
+My login credentials are not working.,upgrade,negative,high,unresolved
+I am unable to track my package.,account_update,negative,medium,pending
+I need help updating my account details.,order_issue,negative,high,pending
+Can I get a refund for my last purchase?,order_status,negative,medium,resolved
+"My payment failed, what should I do?",payment_issue,positive,high,unresolved
+How do I return an item I purchased?,app_crash,positive,high,pending
+My order has not arrived yet.,subscription,negative,medium,resolved
+Why is my order status still pending?,delivery,negative,low,unresolved
+Can I get a refund for my last purchase?,human_agent,neutral,medium,pending
+I am unable to track my package.,wrong_item,positive,high,unresolved
+Why is my order status still pending?,account_update,negative,high,pending
+Can I upgrade my current subscription plan?,payment_issue,positive,low,unresolved
+"I received a wrong item, can I exchange it?",discount,neutral,low,pending
+How do I change my delivery address?,tracking,positive,low,resolved
+Can I get a refund for my last purchase?,wrong_item,negative,high,unresolved
+I want to cancel my subscription.,discount,negative,high,resolved
+"I received a wrong item, can I exchange it?",human_agent,neutral,medium,unresolved
+Can I speak to a human agent?,human_agent,neutral,high,pending
+Do you offer discounts for students?,login_issue,neutral,low,unresolved
+I want to cancel my subscription.,wrong_item,negative,low,pending
+"My payment failed, what should I do?",billing,neutral,high,unresolved
+Do you offer discounts for students?,payment_issue,positive,high,unresolved
+"My payment failed, what should I do?",service_issue,negative,medium,unresolved
+The customer service number is not working.,human_agent,negative,high,resolved
+I need help updating my account details.,billing,neutral,medium,pending
+I need help updating my account details.,billing,negative,medium,pending
+I am unable to track my package.,subscription,neutral,medium,resolved
+My login credentials are not working.,service_issue,negative,medium,resolved
+How do I return an item I purchased?,order_issue,negative,high,resolved
+"I received a wrong item, can I exchange it?",discount,negative,high,resolved
+How do I change my delivery address?,wrong_item,neutral,medium,resolved
+"My mobile app keeps crashing, can you fix it?",account_update,neutral,high,unresolved
+The internet connection is too slow.,app_crash,positive,medium,unresolved
+"My credit card was declined, what now?",refund,negative,low,unresolved
+I want to cancel my subscription.,billing,negative,low,unresolved
+The internet connection is too slow.,returns,negative,low,pending
+I want to cancel my subscription.,refund,positive,medium,resolved
+Why is my order status still pending?,returns,negative,low,pending
+Can I get a refund for my last purchase?,tracking,negative,high,resolved
+I need help updating my account details.,account_update,positive,high,unresolved
+I want to cancel my subscription.,subscription,positive,high,unresolved
+Can I upgrade my current subscription plan?,wrong_item,positive,high,resolved
+Can I speak to a human agent?,returns,negative,medium,resolved
+Can I speak to a human agent?,account_issue,neutral,low,pending
+I was charged incorrectly on my bill.,billing,positive,high,resolved
+My login credentials are not working.,order_issue,negative,low,pending
+I want to cancel my subscription.,app_crash,neutral,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",technical_support,negative,high,resolved
+Do you offer discounts for students?,card_declined,negative,high,pending
+The internet connection is too slow.,tracking,neutral,medium,resolved
+I was charged incorrectly on my bill.,account_update,negative,high,pending
+I want to cancel my subscription.,app_crash,negative,low,resolved
+Can I get a refund for my last purchase?,human_agent,negative,high,pending
+Do you offer discounts for students?,card_declined,positive,high,unresolved
+How do I reset my password?,account_update,positive,high,unresolved
+My order has not arrived yet.,refund,negative,medium,resolved
+My login credentials are not working.,service_issue,negative,high,pending
+How do I reset my password?,discount,neutral,low,pending
+Do you offer discounts for students?,returns,negative,high,unresolved
+How do I change my delivery address?,account_update,negative,high,resolved
+Can I speak to a human agent?,card_declined,positive,medium,pending
+I want to cancel my subscription.,tracking,positive,high,resolved
+I need help updating my account details.,billing,neutral,low,resolved
+Can I upgrade my current subscription plan?,app_crash,neutral,medium,resolved
+The internet connection is too slow.,tracking,negative,medium,resolved
+My login credentials are not working.,order_status,positive,low,resolved
+Can I upgrade my current subscription plan?,payment_issue,positive,low,pending
+Can I get a refund for my last purchase?,delivery,negative,high,resolved
+How do I return an item I purchased?,technical_support,negative,high,unresolved
+How do I reset my password?,subscription,negative,medium,pending
+The customer service number is not working.,returns,positive,high,resolved
+The customer service number is not working.,login_issue,neutral,high,resolved
+How do I change my delivery address?,billing,positive,medium,resolved
+"My credit card was declined, what now?",technical_support,neutral,low,resolved
+I was charged incorrectly on my bill.,payment_issue,negative,low,unresolved
+My login credentials are not working.,order_status,neutral,high,resolved
+The internet connection is too slow.,human_agent,negative,medium,unresolved
+How do I reset my password?,payment_issue,negative,medium,pending
+The internet connection is too slow.,discount,neutral,low,resolved
+The internet connection is too slow.,tracking,positive,high,pending
+How do I return an item I purchased?,billing,negative,medium,resolved
+Do you offer discounts for students?,payment_issue,neutral,medium,resolved
+"My credit card was declined, what now?",login_issue,positive,low,resolved
+I want to cancel my subscription.,order_status,positive,medium,resolved
+I need help updating my account details.,upgrade,positive,medium,resolved
+The customer service number is not working.,human_agent,negative,high,pending
+Can I upgrade my current subscription plan?,account_issue,positive,medium,pending
+The internet connection is too slow.,card_declined,positive,high,unresolved
+Can I upgrade my current subscription plan?,payment_issue,negative,low,pending
+I was charged incorrectly on my bill.,technical_support,negative,medium,pending
+Do you offer discounts for students?,tracking,positive,low,unresolved
+My order has not arrived yet.,order_issue,neutral,medium,resolved
+How do I reset my password?,payment_issue,positive,medium,resolved
+The customer service number is not working.,technical_support,neutral,high,pending
+How do I return an item I purchased?,delivery,negative,medium,pending
+"My credit card was declined, what now?",account_issue,neutral,medium,resolved
+My order has not arrived yet.,order_issue,negative,high,unresolved
+"I received a wrong item, can I exchange it?",wrong_item,negative,high,unresolved
+My login credentials are not working.,account_issue,neutral,high,resolved
+I am unable to track my package.,account_update,positive,low,resolved
+Why is my order status still pending?,wrong_item,negative,medium,pending
+My login credentials are not working.,wrong_item,negative,medium,unresolved
+I am unable to track my package.,billing,neutral,medium,resolved
+How do I return an item I purchased?,discount,negative,high,resolved
+Why is my order status still pending?,card_declined,negative,low,pending
+How do I change my delivery address?,wrong_item,neutral,medium,unresolved
+"My payment failed, what should I do?",refund,negative,medium,unresolved
+How do I reset my password?,technical_support,neutral,medium,unresolved
+I want to cancel my subscription.,app_crash,neutral,low,pending
+"My credit card was declined, what now?",card_declined,negative,medium,pending
+Can I speak to a human agent?,app_crash,positive,high,pending
+"My mobile app keeps crashing, can you fix it?",billing,negative,medium,unresolved
+I was charged incorrectly on my bill.,account_update,neutral,high,unresolved
+I need help updating my account details.,account_issue,positive,low,unresolved
+I need help updating my account details.,subscription,positive,low,unresolved
+How do I change my delivery address?,login_issue,negative,medium,unresolved
+My order has not arrived yet.,order_status,positive,high,pending
+"I received a wrong item, can I exchange it?",tracking,neutral,low,unresolved
+My login credentials are not working.,wrong_item,neutral,high,unresolved
+Can I speak to a human agent?,upgrade,positive,high,pending
+How do I return an item I purchased?,order_status,negative,low,pending
+"I received a wrong item, can I exchange it?",account_issue,neutral,low,resolved
+How do I reset my password?,wrong_item,negative,high,pending
+I was charged incorrectly on my bill.,app_crash,positive,medium,unresolved
+Can I upgrade my current subscription plan?,tracking,neutral,low,unresolved
+The internet connection is too slow.,service_issue,positive,high,unresolved
+"My mobile app keeps crashing, can you fix it?",billing,neutral,low,unresolved
+Can I upgrade my current subscription plan?,delivery,neutral,high,resolved
+I want to cancel my subscription.,delivery,negative,high,unresolved
+The internet connection is too slow.,account_issue,positive,medium,unresolved
+Can I speak to a human agent?,service_issue,negative,medium,resolved
+How do I reset my password?,technical_support,neutral,medium,pending
+"My mobile app keeps crashing, can you fix it?",service_issue,negative,medium,resolved
+Why is my order status still pending?,service_issue,neutral,low,unresolved
+"My credit card was declined, what now?",account_update,neutral,medium,unresolved
+My login credentials are not working.,technical_support,negative,high,pending
+I was charged incorrectly on my bill.,wrong_item,negative,high,pending
+I was charged incorrectly on my bill.,billing,negative,low,unresolved
+My order has not arrived yet.,delivery,negative,medium,resolved
+"My mobile app keeps crashing, can you fix it?",app_crash,positive,high,resolved
+"My payment failed, what should I do?",app_crash,positive,high,pending
+I am unable to track my package.,account_update,neutral,high,unresolved
+Can I speak to a human agent?,login_issue,negative,low,unresolved
+I was charged incorrectly on my bill.,delivery,neutral,high,pending
+"I received a wrong item, can I exchange it?",login_issue,negative,medium,unresolved
+The internet connection is too slow.,tracking,positive,high,pending
+"I received a wrong item, can I exchange it?",account_update,negative,low,pending
+"I received a wrong item, can I exchange it?",order_status,negative,medium,pending
+My login credentials are not working.,billing,positive,medium,pending
+How do I change my delivery address?,payment_issue,positive,low,resolved
+I was charged incorrectly on my bill.,discount,negative,high,resolved
+Can I upgrade my current subscription plan?,payment_issue,positive,low,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,negative,high,resolved
+"My payment failed, what should I do?",service_issue,negative,low,resolved
+Can I get a refund for my last purchase?,returns,negative,low,unresolved
+Can I get a refund for my last purchase?,upgrade,neutral,low,pending
+My order has not arrived yet.,wrong_item,positive,high,unresolved
+"My payment failed, what should I do?",account_issue,negative,high,unresolved
+Why is my order status still pending?,order_status,positive,medium,resolved
+"My credit card was declined, what now?",returns,neutral,low,pending
+I want to cancel my subscription.,discount,positive,medium,unresolved
+Do you offer discounts for students?,account_update,negative,low,unresolved
+How do I change my delivery address?,tracking,neutral,high,pending
+"My credit card was declined, what now?",app_crash,negative,high,resolved
+I want to cancel my subscription.,service_issue,neutral,high,unresolved
+How do I reset my password?,upgrade,positive,medium,resolved
+"My mobile app keeps crashing, can you fix it?",wrong_item,positive,low,pending
+I need help updating my account details.,account_issue,positive,low,resolved
+I want to cancel my subscription.,delivery,positive,medium,unresolved
+How do I reset my password?,app_crash,neutral,medium,resolved
+Do you offer discounts for students?,returns,negative,medium,pending
+"My credit card was declined, what now?",account_update,negative,high,resolved
+How do I change my delivery address?,login_issue,negative,low,resolved
+The internet connection is too slow.,human_agent,negative,high,resolved
+How do I change my delivery address?,technical_support,positive,medium,unresolved
+Why is my order status still pending?,refund,neutral,high,resolved
+Do you offer discounts for students?,returns,neutral,low,unresolved
+Can I speak to a human agent?,billing,negative,low,pending
+Why is my order status still pending?,order_issue,positive,low,resolved
+"My payment failed, what should I do?",app_crash,positive,medium,resolved
+Can I get a refund for my last purchase?,discount,positive,low,resolved
+I need help updating my account details.,account_update,neutral,low,pending
+How do I return an item I purchased?,discount,positive,high,pending
+Why is my order status still pending?,account_issue,neutral,high,unresolved
+The customer service number is not working.,returns,negative,high,unresolved
+"My credit card was declined, what now?",payment_issue,positive,low,resolved
+Can I get a refund for my last purchase?,login_issue,negative,low,pending
+"I received a wrong item, can I exchange it?",refund,neutral,low,pending
+How do I change my delivery address?,app_crash,negative,low,pending
+I need help updating my account details.,service_issue,neutral,medium,resolved
+Can I speak to a human agent?,service_issue,negative,medium,unresolved
+I am unable to track my package.,returns,positive,medium,resolved
+Do you offer discounts for students?,subscription,negative,low,pending
+My order has not arrived yet.,billing,negative,low,unresolved
+The customer service number is not working.,wrong_item,negative,low,resolved
+Why is my order status still pending?,account_update,neutral,high,resolved
+How do I reset my password?,discount,negative,low,resolved
+Can I upgrade my current subscription plan?,wrong_item,neutral,low,pending
+The customer service number is not working.,human_agent,negative,low,unresolved
+How do I change my delivery address?,wrong_item,neutral,low,unresolved
+I want to cancel my subscription.,order_status,positive,high,resolved
+"My mobile app keeps crashing, can you fix it?",card_declined,positive,low,unresolved
+Can I speak to a human agent?,upgrade,positive,high,unresolved
+"I received a wrong item, can I exchange it?",payment_issue,positive,high,pending
+How do I reset my password?,login_issue,neutral,medium,pending
+"My credit card was declined, what now?",wrong_item,negative,high,resolved
+Can I get a refund for my last purchase?,order_issue,negative,low,pending
+Do you offer discounts for students?,order_status,negative,high,pending
+"My credit card was declined, what now?",refund,positive,high,unresolved
+My order has not arrived yet.,app_crash,neutral,low,resolved
+"My mobile app keeps crashing, can you fix it?",discount,positive,high,unresolved
+"I received a wrong item, can I exchange it?",service_issue,positive,low,unresolved
+"My payment failed, what should I do?",order_issue,positive,low,resolved
+"My credit card was declined, what now?",refund,positive,medium,resolved
+I was charged incorrectly on my bill.,delivery,neutral,medium,pending
+I am unable to track my package.,service_issue,positive,high,pending
+Why is my order status still pending?,subscription,negative,medium,pending
+How do I change my delivery address?,returns,neutral,high,pending
+"My mobile app keeps crashing, can you fix it?",account_update,negative,high,resolved
+I was charged incorrectly on my bill.,order_status,neutral,high,resolved
+Can I get a refund for my last purchase?,refund,neutral,medium,resolved
+I want to cancel my subscription.,billing,negative,low,unresolved
+"My payment failed, what should I do?",card_declined,positive,medium,unresolved
+The customer service number is not working.,card_declined,negative,low,unresolved
+How do I reset my password?,account_issue,negative,low,resolved
+Can I upgrade my current subscription plan?,service_issue,negative,low,pending
+"I received a wrong item, can I exchange it?",human_agent,negative,high,resolved
+My order has not arrived yet.,wrong_item,negative,high,resolved
+How do I return an item I purchased?,human_agent,positive,low,resolved
+Can I get a refund for my last purchase?,card_declined,positive,medium,unresolved
+I want to cancel my subscription.,service_issue,neutral,low,unresolved
+I am unable to track my package.,order_issue,neutral,high,pending
+Can I upgrade my current subscription plan?,wrong_item,neutral,medium,resolved
+"I received a wrong item, can I exchange it?",order_status,neutral,high,resolved
+"My payment failed, what should I do?",returns,negative,high,pending
+Why is my order status still pending?,billing,positive,medium,unresolved
+"My credit card was declined, what now?",human_agent,neutral,medium,resolved
+I need help updating my account details.,login_issue,neutral,high,resolved
+I want to cancel my subscription.,subscription,neutral,high,pending
+Do you offer discounts for students?,upgrade,negative,low,unresolved
+Can I speak to a human agent?,discount,positive,medium,pending
+My order has not arrived yet.,card_declined,negative,medium,unresolved
+The internet connection is too slow.,technical_support,negative,medium,pending
+"My payment failed, what should I do?",tracking,negative,high,unresolved
+"My credit card was declined, what now?",order_status,negative,high,pending
+How do I return an item I purchased?,wrong_item,neutral,high,unresolved
+My login credentials are not working.,tracking,negative,medium,unresolved
+How do I change my delivery address?,technical_support,neutral,medium,unresolved
+How do I return an item I purchased?,wrong_item,negative,medium,pending
+I was charged incorrectly on my bill.,account_issue,negative,low,unresolved
+Do you offer discounts for students?,payment_issue,positive,high,pending
+I need help updating my account details.,tracking,negative,medium,resolved
+Can I get a refund for my last purchase?,tracking,negative,low,resolved
+I want to cancel my subscription.,subscription,negative,low,resolved
+I am unable to track my package.,payment_issue,negative,low,pending
+"My payment failed, what should I do?",app_crash,positive,high,pending
+Do you offer discounts for students?,account_issue,neutral,medium,pending
+I want to cancel my subscription.,returns,neutral,high,resolved
+"My payment failed, what should I do?",billing,neutral,low,resolved
+"My credit card was declined, what now?",human_agent,negative,medium,unresolved
+The customer service number is not working.,account_issue,negative,medium,pending
+"My payment failed, what should I do?",refund,negative,low,resolved
+How do I change my delivery address?,account_update,neutral,medium,unresolved
+I was charged incorrectly on my bill.,tracking,negative,medium,pending
+"My mobile app keeps crashing, can you fix it?",account_update,neutral,low,pending
+The internet connection is too slow.,delivery,negative,medium,unresolved
+Can I upgrade my current subscription plan?,tracking,positive,high,unresolved
+The customer service number is not working.,payment_issue,positive,high,resolved
+The internet connection is too slow.,subscription,negative,high,unresolved
+How do I reset my password?,subscription,negative,low,unresolved
+Can I get a refund for my last purchase?,billing,negative,high,pending
+Can I speak to a human agent?,order_status,negative,low,unresolved
+How do I reset my password?,order_issue,neutral,medium,resolved
+The customer service number is not working.,refund,positive,high,pending
+My login credentials are not working.,upgrade,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",order_status,neutral,low,resolved
+Can I upgrade my current subscription plan?,wrong_item,positive,high,resolved
+The internet connection is too slow.,upgrade,negative,low,pending
+Can I upgrade my current subscription plan?,discount,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",delivery,positive,high,pending
+Do you offer discounts for students?,account_update,negative,high,resolved
+"My mobile app keeps crashing, can you fix it?",card_declined,positive,high,resolved
+"My credit card was declined, what now?",refund,negative,low,resolved
+"My mobile app keeps crashing, can you fix it?",payment_issue,negative,high,unresolved
+I want to cancel my subscription.,login_issue,negative,medium,pending
+"My credit card was declined, what now?",account_issue,neutral,medium,pending
+How do I reset my password?,app_crash,positive,high,pending
+My login credentials are not working.,discount,positive,low,pending
+My login credentials are not working.,human_agent,positive,high,resolved
+"I received a wrong item, can I exchange it?",account_issue,negative,medium,unresolved
+The customer service number is not working.,account_update,negative,high,unresolved
+"My credit card was declined, what now?",account_update,neutral,low,pending
+I want to cancel my subscription.,delivery,positive,low,resolved
+I was charged incorrectly on my bill.,login_issue,neutral,medium,pending
+I need help updating my account details.,card_declined,positive,medium,resolved
+Can I upgrade my current subscription plan?,card_declined,positive,high,resolved
+I was charged incorrectly on my bill.,wrong_item,positive,low,pending
+Can I speak to a human agent?,payment_issue,negative,high,resolved
+Can I get a refund for my last purchase?,technical_support,negative,high,unresolved
+I am unable to track my package.,delivery,negative,medium,pending
+Why is my order status still pending?,human_agent,negative,low,resolved
+"My mobile app keeps crashing, can you fix it?",human_agent,positive,medium,pending
+I want to cancel my subscription.,returns,neutral,high,pending
+My order has not arrived yet.,delivery,negative,medium,pending
+"My payment failed, what should I do?",account_issue,positive,low,unresolved
+How do I change my delivery address?,returns,neutral,medium,pending
+"My payment failed, what should I do?",wrong_item,neutral,low,resolved
+"I received a wrong item, can I exchange it?",upgrade,positive,high,unresolved
+"My mobile app keeps crashing, can you fix it?",order_status,neutral,low,resolved
+"My credit card was declined, what now?",payment_issue,neutral,medium,unresolved
+How do I return an item I purchased?,service_issue,neutral,high,unresolved
+"My credit card was declined, what now?",login_issue,negative,low,unresolved
+How do I return an item I purchased?,human_agent,negative,high,resolved
+How do I return an item I purchased?,human_agent,negative,medium,resolved
+The internet connection is too slow.,account_update,positive,low,resolved
+Why is my order status still pending?,billing,positive,high,pending
+"My payment failed, what should I do?",order_issue,negative,medium,resolved
+Can I upgrade my current subscription plan?,discount,negative,medium,unresolved
+Can I speak to a human agent?,returns,positive,medium,pending
+How do I reset my password?,card_declined,positive,low,unresolved
+Can I upgrade my current subscription plan?,card_declined,negative,medium,unresolved
+My order has not arrived yet.,order_status,neutral,high,resolved
+Do you offer discounts for students?,wrong_item,positive,high,unresolved
+Can I speak to a human agent?,service_issue,neutral,low,resolved
+My order has not arrived yet.,refund,negative,medium,unresolved
+I need help updating my account details.,wrong_item,positive,low,pending
+My login credentials are not working.,card_declined,positive,low,resolved
+"I received a wrong item, can I exchange it?",card_declined,positive,high,pending
+The customer service number is not working.,login_issue,positive,medium,pending
+How do I reset my password?,order_status,neutral,medium,unresolved
+Can I speak to a human agent?,app_crash,negative,high,pending
+"My mobile app keeps crashing, can you fix it?",account_update,neutral,low,unresolved
+"My mobile app keeps crashing, can you fix it?",card_declined,negative,medium,pending
+Can I speak to a human agent?,account_update,positive,low,resolved
+I need help updating my account details.,payment_issue,negative,medium,unresolved
+Can I upgrade my current subscription plan?,delivery,positive,high,unresolved
+Can I upgrade my current subscription plan?,returns,negative,high,pending
+How do I change my delivery address?,returns,negative,medium,unresolved
+My order has not arrived yet.,order_issue,positive,medium,resolved
+The customer service number is not working.,subscription,positive,low,pending
+I am unable to track my package.,refund,positive,low,resolved
+How do I return an item I purchased?,technical_support,negative,low,resolved
+I was charged incorrectly on my bill.,service_issue,positive,low,pending
+How do I return an item I purchased?,wrong_item,neutral,medium,unresolved
+My order has not arrived yet.,account_update,neutral,high,resolved
+The internet connection is too slow.,delivery,negative,high,pending
+"I received a wrong item, can I exchange it?",app_crash,positive,low,unresolved
+I was charged incorrectly on my bill.,discount,positive,medium,resolved
+I want to cancel my subscription.,delivery,neutral,high,resolved
+Can I speak to a human agent?,service_issue,positive,medium,unresolved
+I need help updating my account details.,service_issue,negative,medium,unresolved
+Can I speak to a human agent?,service_issue,positive,low,pending
+Can I upgrade my current subscription plan?,billing,negative,medium,resolved
+How do I return an item I purchased?,service_issue,neutral,low,unresolved
+"I received a wrong item, can I exchange it?",delivery,negative,low,unresolved
+Can I speak to a human agent?,login_issue,positive,medium,unresolved
+The internet connection is too slow.,order_issue,negative,low,unresolved
+"My credit card was declined, what now?",login_issue,neutral,low,unresolved
+Do you offer discounts for students?,refund,negative,medium,unresolved
+How do I change my delivery address?,delivery,negative,medium,unresolved
+How do I change my delivery address?,returns,positive,high,unresolved
+Can I upgrade my current subscription plan?,refund,negative,low,unresolved
+I am unable to track my package.,human_agent,neutral,low,unresolved
+"I received a wrong item, can I exchange it?",refund,neutral,low,pending
+I want to cancel my subscription.,app_crash,positive,low,resolved
+I want to cancel my subscription.,app_crash,neutral,low,resolved
+How do I return an item I purchased?,account_issue,positive,medium,resolved
+The customer service number is not working.,delivery,positive,high,resolved
+I was charged incorrectly on my bill.,account_update,neutral,high,unresolved
+"My credit card was declined, what now?",delivery,neutral,low,unresolved
+I need help updating my account details.,discount,negative,high,resolved
+"I received a wrong item, can I exchange it?",tracking,negative,medium,resolved
+"My credit card was declined, what now?",subscription,negative,medium,unresolved
+The internet connection is too slow.,returns,negative,high,resolved
+Why is my order status still pending?,human_agent,positive,low,pending
+The customer service number is not working.,billing,neutral,low,pending
+My order has not arrived yet.,wrong_item,neutral,medium,pending
+"My credit card was declined, what now?",refund,neutral,low,pending
+Can I get a refund for my last purchase?,discount,negative,low,resolved
+Can I get a refund for my last purchase?,upgrade,neutral,high,resolved
+Do you offer discounts for students?,order_status,positive,high,unresolved
+"My payment failed, what should I do?",technical_support,negative,medium,resolved
+"My payment failed, what should I do?",service_issue,neutral,high,resolved
+Why is my order status still pending?,order_issue,neutral,high,unresolved
+"My mobile app keeps crashing, can you fix it?",human_agent,positive,high,pending
+Can I upgrade my current subscription plan?,returns,positive,high,resolved
+I am unable to track my package.,card_declined,negative,low,resolved
+How do I reset my password?,discount,negative,high,pending
+"I received a wrong item, can I exchange it?",returns,neutral,high,pending
+The customer service number is not working.,account_issue,neutral,high,unresolved
+"My mobile app keeps crashing, can you fix it?",order_status,neutral,low,pending
+"My payment failed, what should I do?",billing,negative,high,unresolved
+The customer service number is not working.,upgrade,positive,low,unresolved
+Can I get a refund for my last purchase?,service_issue,positive,high,unresolved
+I am unable to track my package.,returns,positive,high,pending
+"I received a wrong item, can I exchange it?",technical_support,neutral,medium,resolved
+How do I reset my password?,returns,positive,low,unresolved
+My login credentials are not working.,order_issue,neutral,medium,resolved
+"My payment failed, what should I do?",returns,positive,medium,pending
+Why is my order status still pending?,discount,positive,low,resolved
+Can I speak to a human agent?,payment_issue,negative,medium,resolved
+"My payment failed, what should I do?",human_agent,neutral,medium,unresolved
+Do you offer discounts for students?,tracking,neutral,high,resolved
+"I received a wrong item, can I exchange it?",wrong_item,negative,low,resolved
+"My credit card was declined, what now?",order_issue,negative,medium,pending
+I was charged incorrectly on my bill.,refund,neutral,low,resolved
+I want to cancel my subscription.,payment_issue,neutral,medium,resolved
+"My credit card was declined, what now?",wrong_item,positive,medium,pending
+How do I change my delivery address?,order_status,positive,high,resolved
+"My credit card was declined, what now?",returns,neutral,medium,unresolved
+Do you offer discounts for students?,returns,neutral,low,resolved
+How do I reset my password?,account_issue,negative,low,resolved
+The customer service number is not working.,account_issue,negative,low,unresolved
+I am unable to track my package.,login_issue,neutral,high,unresolved
+"My payment failed, what should I do?",payment_issue,neutral,medium,resolved
+Do you offer discounts for students?,app_crash,negative,high,unresolved
+The customer service number is not working.,order_issue,negative,low,unresolved
+"My credit card was declined, what now?",payment_issue,positive,low,pending
+The internet connection is too slow.,discount,positive,high,pending
+My order has not arrived yet.,login_issue,neutral,high,unresolved
+My login credentials are not working.,delivery,negative,medium,unresolved
+"My payment failed, what should I do?",upgrade,neutral,low,pending
+I want to cancel my subscription.,technical_support,positive,high,unresolved
+I want to cancel my subscription.,card_declined,neutral,low,resolved
+Can I upgrade my current subscription plan?,technical_support,positive,low,pending
+How do I return an item I purchased?,subscription,positive,medium,pending
+How do I reset my password?,subscription,positive,high,unresolved
+My order has not arrived yet.,upgrade,negative,high,unresolved
+My login credentials are not working.,delivery,neutral,low,unresolved
+The internet connection is too slow.,account_issue,negative,medium,resolved
+I was charged incorrectly on my bill.,service_issue,positive,medium,pending
+I want to cancel my subscription.,billing,neutral,low,resolved
+The internet connection is too slow.,login_issue,neutral,low,pending
+I am unable to track my package.,refund,neutral,medium,pending
+I was charged incorrectly on my bill.,account_issue,neutral,low,unresolved
+"My mobile app keeps crashing, can you fix it?",service_issue,neutral,low,pending
+How do I reset my password?,app_crash,negative,high,resolved
+I want to cancel my subscription.,delivery,positive,medium,unresolved
+Why is my order status still pending?,delivery,neutral,low,resolved
+"My credit card was declined, what now?",account_update,negative,high,resolved
+"My credit card was declined, what now?",technical_support,negative,high,resolved
+"I received a wrong item, can I exchange it?",account_update,positive,high,pending
+Why is my order status still pending?,app_crash,neutral,high,resolved
+"My mobile app keeps crashing, can you fix it?",billing,positive,low,pending
+The internet connection is too slow.,returns,neutral,low,unresolved
+"I received a wrong item, can I exchange it?",subscription,negative,medium,pending
+The customer service number is not working.,login_issue,neutral,medium,pending
+"I received a wrong item, can I exchange it?",billing,positive,high,resolved
+Can I speak to a human agent?,delivery,neutral,low,pending
+The internet connection is too slow.,order_status,neutral,low,unresolved
+I was charged incorrectly on my bill.,payment_issue,positive,high,unresolved
+Can I upgrade my current subscription plan?,returns,positive,low,pending
+My order has not arrived yet.,technical_support,negative,high,pending
+Why is my order status still pending?,billing,neutral,medium,resolved
+The internet connection is too slow.,tracking,positive,high,resolved
+"I received a wrong item, can I exchange it?",account_issue,neutral,medium,resolved
+I am unable to track my package.,refund,neutral,low,unresolved
+"My mobile app keeps crashing, can you fix it?",subscription,neutral,medium,pending
+I was charged incorrectly on my bill.,order_issue,positive,medium,resolved
+"I received a wrong item, can I exchange it?",refund,negative,high,unresolved
+Can I get a refund for my last purchase?,returns,positive,low,pending
+I was charged incorrectly on my bill.,app_crash,neutral,low,resolved
+"My payment failed, what should I do?",account_issue,neutral,medium,pending
+"My mobile app keeps crashing, can you fix it?",payment_issue,positive,medium,pending
+Can I get a refund for my last purchase?,payment_issue,neutral,high,unresolved
+How do I reset my password?,wrong_item,positive,medium,pending
+I want to cancel my subscription.,returns,positive,medium,resolved
+The customer service number is not working.,login_issue,negative,high,resolved
+The customer service number is not working.,order_status,neutral,medium,resolved
+Can I upgrade my current subscription plan?,delivery,positive,low,unresolved
+"My payment failed, what should I do?",wrong_item,negative,high,unresolved
+Can I get a refund for my last purchase?,order_issue,neutral,medium,resolved
+Do you offer discounts for students?,app_crash,positive,high,resolved
+The customer service number is not working.,upgrade,positive,low,unresolved
+How do I return an item I purchased?,service_issue,negative,low,resolved
+I was charged incorrectly on my bill.,human_agent,neutral,high,unresolved
+My order has not arrived yet.,returns,neutral,high,unresolved
+Can I speak to a human agent?,login_issue,positive,low,pending
+I want to cancel my subscription.,tracking,negative,medium,unresolved
+"My payment failed, what should I do?",payment_issue,positive,high,resolved
+Can I speak to a human agent?,billing,positive,medium,unresolved
+My order has not arrived yet.,subscription,neutral,low,pending
+I want to cancel my subscription.,human_agent,neutral,high,resolved
+"I received a wrong item, can I exchange it?",delivery,positive,low,unresolved
+Do you offer discounts for students?,account_update,neutral,low,unresolved
+The customer service number is not working.,subscription,neutral,high,resolved
+The internet connection is too slow.,card_declined,negative,medium,unresolved
+Do you offer discounts for students?,delivery,neutral,high,unresolved
+"My credit card was declined, what now?",service_issue,negative,high,resolved
+How do I return an item I purchased?,delivery,positive,medium,resolved
+My order has not arrived yet.,account_update,neutral,high,resolved
+The internet connection is too slow.,discount,negative,low,pending
+My login credentials are not working.,human_agent,neutral,medium,pending
+Can I speak to a human agent?,order_issue,negative,high,unresolved
+"My credit card was declined, what now?",upgrade,positive,medium,pending
+My login credentials are not working.,app_crash,neutral,low,resolved
+The internet connection is too slow.,card_declined,positive,medium,pending
+Why is my order status still pending?,tracking,positive,high,unresolved
+My login credentials are not working.,delivery,positive,medium,unresolved
+How do I reset my password?,order_issue,neutral,high,pending
+Can I get a refund for my last purchase?,app_crash,negative,low,pending
+Can I get a refund for my last purchase?,payment_issue,negative,high,resolved
+How do I reset my password?,order_issue,negative,medium,resolved
+"I received a wrong item, can I exchange it?",wrong_item,negative,high,unresolved
+I need help updating my account details.,tracking,positive,high,resolved
+Can I speak to a human agent?,order_status,positive,high,unresolved
+The internet connection is too slow.,login_issue,negative,high,pending
+The customer service number is not working.,payment_issue,negative,medium,unresolved
+How do I reset my password?,service_issue,negative,medium,pending
+I am unable to track my package.,payment_issue,neutral,high,unresolved
+I want to cancel my subscription.,order_issue,positive,medium,pending
+How do I reset my password?,returns,negative,low,resolved
+"I received a wrong item, can I exchange it?",app_crash,negative,high,pending
+The customer service number is not working.,payment_issue,positive,high,unresolved
+"My credit card was declined, what now?",account_update,positive,high,resolved
+How do I return an item I purchased?,subscription,neutral,medium,pending
+Why is my order status still pending?,discount,positive,low,pending
+How do I return an item I purchased?,billing,neutral,high,resolved
+The internet connection is too slow.,card_declined,negative,low,pending
+The internet connection is too slow.,billing,neutral,low,pending
+"My payment failed, what should I do?",refund,neutral,medium,unresolved
+My order has not arrived yet.,app_crash,neutral,medium,unresolved
+I want to cancel my subscription.,account_update,positive,medium,unresolved
+Can I upgrade my current subscription plan?,returns,negative,low,unresolved
+Can I get a refund for my last purchase?,returns,positive,high,unresolved
+My order has not arrived yet.,discount,negative,high,resolved
+"I received a wrong item, can I exchange it?",refund,positive,high,resolved
+Can I get a refund for my last purchase?,order_issue,neutral,high,pending
+I am unable to track my package.,payment_issue,positive,low,pending
+"My mobile app keeps crashing, can you fix it?",service_issue,neutral,low,resolved
+How do I return an item I purchased?,payment_issue,positive,low,pending
+How do I reset my password?,order_status,negative,medium,resolved
+Can I upgrade my current subscription plan?,account_issue,positive,low,pending
+Do you offer discounts for students?,delivery,negative,high,pending
+I was charged incorrectly on my bill.,human_agent,neutral,medium,resolved
+How do I return an item I purchased?,service_issue,positive,medium,unresolved
+How do I change my delivery address?,order_issue,negative,low,unresolved
+"My credit card was declined, what now?",human_agent,neutral,high,resolved
+My login credentials are not working.,tracking,positive,medium,unresolved
+"My mobile app keeps crashing, can you fix it?",account_issue,neutral,low,unresolved
+"My credit card was declined, what now?",card_declined,negative,low,unresolved
+How do I reset my password?,discount,positive,medium,pending
+I want to cancel my subscription.,payment_issue,negative,medium,pending
+Can I speak to a human agent?,discount,negative,low,pending
+How do I change my delivery address?,payment_issue,neutral,low,pending
+I am unable to track my package.,upgrade,positive,medium,unresolved
+Can I upgrade my current subscription plan?,app_crash,positive,low,unresolved
+How do I return an item I purchased?,account_update,negative,low,unresolved
+Can I get a refund for my last purchase?,login_issue,negative,low,pending
+How do I return an item I purchased?,billing,negative,high,resolved
+The customer service number is not working.,billing,negative,medium,unresolved
+"My credit card was declined, what now?",payment_issue,positive,high,pending
+My order has not arrived yet.,subscription,positive,medium,unresolved
+The customer service number is not working.,delivery,negative,medium,pending
+"My mobile app keeps crashing, can you fix it?",billing,positive,medium,unresolved
+"My credit card was declined, what now?",payment_issue,positive,medium,unresolved
+My order has not arrived yet.,order_status,negative,low,unresolved
+I was charged incorrectly on my bill.,payment_issue,positive,medium,unresolved
+"My payment failed, what should I do?",account_update,neutral,low,pending
