@@ -62,11 +62,10 @@ Expected response:
 ```
 
 ## 📸 Screenshots  
-### 🔹 User Interface  
-![UI Screenshot](./frontend/public/chatbot_ui.png)  
+### 🔹 User Interface   
+![image](https://github.com/user-attachments/assets/0f5a4676-dfe6-42af-8bb6-00fe96f913f1)
 
-### 🔹 Folder Structure  
-![Project Structure](./project_structure.png)  
+![image](https://github.com/user-attachments/assets/83c28bb2-e777-486b-b85b-4af5ddf9d074)
 
 ## 📌 Future Improvements  
 - Improve response accuracy with **LSTM/CNN models**  
